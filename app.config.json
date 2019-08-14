@@ -1,7 +1,7 @@
 {
     "apps" : [
       {
-        "name": "holiday-hotel-booking-ui",
+        "name": "vrbo-ui",
         "script": "npx",
         "interpreter": "none",
         "args": "serve -p 4000 -s build"
